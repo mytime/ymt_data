@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b5ffaa3-1a6e-4c35-b0d7-602d9333094e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/all_car.html" afterPath="$PROJECT_DIR$/data/all_car.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/all_pro_brand.html" afterPath="$PROJECT_DIR$/data/all_pro_brand.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/car.html" afterPath="$PROJECT_DIR$/data/car.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/goods_cell.html" afterPath="$PROJECT_DIR$/data/goods_cell.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/goods_list.html" afterPath="$PROJECT_DIR$/data/goods_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/home_list.html" afterPath="$PROJECT_DIR$/data/home_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/hot_pro_brand.html" afterPath="$PROJECT_DIR$/data/hot_pro_brand.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/order_content.html" afterPath="$PROJECT_DIR$/data/order_content.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/orders.html" afterPath="$PROJECT_DIR$/data/orders.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/shopcar.html" afterPath="$PROJECT_DIR$/data/shopcar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/version.html" afterPath="$PROJECT_DIR$/data/version.html" />
     </list>
     <ignored path="ymt_data.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +27,8 @@
       <file leaf-file-name="version.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/version.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -142,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/version.html" />
         <option value="$PROJECT_DIR$/data/goods_list.html" />
         <option value="$PROJECT_DIR$/data/all_car.html" />
         <option value="$PROJECT_DIR$/data/all_pro_brand.html" />
@@ -153,6 +142,7 @@
         <option value="$PROJECT_DIR$/data/order_content.html" />
         <option value="$PROJECT_DIR$/data/orders.html" />
         <option value="$PROJECT_DIR$/data/shopcar.html" />
+        <option value="$PROJECT_DIR$/data/version.html" />
       </list>
     </option>
   </component>
@@ -236,15 +226,15 @@
       <option name="presentableId" value="Default" />
       <updated>1476069994501</updated>
       <workItem from="1476069997091" duration="380000" />
-      <workItem from="1476071262969" duration="464000" />
+      <workItem from="1476071262969" duration="562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="844000" />
+    <option name="totallyTimeSpent" value="942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1276" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1276" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25769854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -404,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/version.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
