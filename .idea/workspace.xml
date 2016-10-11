@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b5ffaa3-1a6e-4c35-b0d7-602d9333094e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/app/app-debug.apk" afterPath="$PROJECT_DIR$/data/app/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/version.html" afterPath="$PROJECT_DIR$/data/version.html" />
     </list>
     <ignored path="ymt_data.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,6 +24,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="version.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/version.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="goods_cell.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/goods_cell.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -34,21 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goods_list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="goods_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/goods_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="29" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="huandengpian.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/huandengpian.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -284,15 +284,15 @@
       <workItem from="1476069997091" duration="380000" />
       <workItem from="1476071262969" duration="1981000" />
       <workItem from="1476092623011" duration="711000" />
-      <workItem from="1476148017402" duration="1196000" />
+      <workItem from="1476148017402" duration="1208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4268000" />
+    <option name="totallyTimeSpent" value="4280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1276" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1276" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26580226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -363,14 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2220">
           <caret line="148" column="47" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/version.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -458,6 +450,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/version.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
