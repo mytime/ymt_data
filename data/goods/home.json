@@ -1,0 +1,186 @@
+{
+  "error_msg": "ok",
+  "goods": [
+    {
+      "lists": [
+        {
+          "goods_id": "1001",
+          "image": "http://120.27.154.147/mock/img_jiyou/001.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护001"
+        },
+        {
+          "goods_id": "1002",
+          "image": "http://120.27.154.147/mock/img_jiyou/001.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护001"
+        },
+        {
+          "goods_id": "1003",
+          "image": "http://120.27.154.147/mock/img_jiyou/001.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护001"
+        },
+        {
+          "goods_id": "1004",
+          "image": "http://120.27.154.147/mock/img_jiyou/001.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护001"
+        }
+      ],
+      "cat_id": "1",
+      "title": "发动机机油"
+    },
+    {
+      "lists": [
+        {
+          "goods_id": "2001",
+          "image": "http://120.27.154.147/mock/img_jiyou/002.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护002"
+        },
+        {
+          "goods_id": "2001",
+          "image": "http://120.27.154.147/mock/img_jiyou/002.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护002"
+        },
+        {
+          "goods_id": "2001",
+          "image": "http://120.27.154.147/mock/img_jiyou/002.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护002"
+        },
+        {
+          "goods_id": "2001",
+          "image": "http://120.27.154.147/mock/img_jiyou/002.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护002"
+        }
+      ],
+      "cat_id": "2",
+      "title": "方向机油"
+    },
+    {
+      "lists": [
+        {
+          "goods_id": "3001",
+          "image": "http://120.27.154.147/mock/img_jiyou/003.png",
+          "price": "76元",
+          "subtitle": "嘉实多极护003"
+        },
+        {
+          "goods_id": "3001",
+          "image": "http://120.27.154.147/mock/img_jiyou/003.png",
+          "price": "76元",
+          "subtitle": "嘉实多极护003"
+        },
+        {
+          "goods_id": "3001",
+          "image": "http://120.27.154.147/mock/img_jiyou/003.png",
+          "price": "76元",
+          "subtitle": "嘉实多极护003"
+        },
+        {
+          "goods_id": "3001",
+          "image": "http://120.27.154.147/mock/img_jiyou/003.png",
+          "price": "76元",
+          "subtitle": "嘉实多极护003"
+        }
+      ],
+      "cat_id": "3",
+      "title": "刹车油"
+    },
+    {
+      "lists": [
+        {
+          "goods_id": "4001",
+          "image": "http://120.27.154.147/mock/img_jiyou/004.png",
+          "price": "35元",
+          "subtitle": "嘉实多极护004"
+        },
+        {
+          "goods_id": "4001",
+          "image": "http://120.27.154.147/mock/img_jiyou/004.png",
+          "price": "35元",
+          "subtitle": "嘉实多极护004"
+        },
+        {
+          "goods_id": "4001",
+          "image": "http://120.27.154.147/mock/img_jiyou/004.png",
+          "price": "35元",
+          "subtitle": "嘉实多极护004"
+        },
+        {
+          "goods_id": "4001",
+          "image": "http://120.27.154.147/mock/img_jiyou/004.png",
+          "price": "35元",
+          "subtitle": "嘉实多极护004"
+        }
+      ],
+      "cat_id": "4",
+      "title": "防冻液"
+    },
+    {
+      "lists": [
+        {
+          "goods_id": "5001",
+          "image": "http://120.27.154.147/mock/img_jiyou/005.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护005"
+        },
+        {
+          "goods_id": "5001",
+          "image": "http://120.27.154.147/mock/img_jiyou/005.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护005"
+        },
+        {
+          "goods_id": "5001",
+          "image": "http://120.27.154.147/mock/img_jiyou/005.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护005"
+        },
+        {
+          "goods_id": "5001",
+          "image": "http://120.27.154.147/mock/img_jiyou/005.png",
+          "price": "998元",
+          "subtitle": "嘉实多极护005"
+        }
+      ],
+      "cat_id": "5",
+      "title": "波箱油"
+    },
+    {
+      "lists": [
+        {
+          "goods_id": "6001",
+          "image": "http://120.27.154.147/mock/img_jiyou/006.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护006"
+        },
+        {
+          "goods_id": "6001",
+          "image": "http://120.27.154.147/mock/img_jiyou/006.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护006"
+        },
+        {
+          "goods_id": "6001",
+          "image": "http://120.27.154.147/mock/img_jiyou/006.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护006"
+        },
+        {
+          "goods_id": "6001",
+          "image": "http://120.27.154.147/mock/img_jiyou/006.png",
+          "price": "56元",
+          "subtitle": "嘉实多极护006"
+        }
+      ],
+      "cat_id": "6",
+      "title": "添加剂"
+    }
+  ],
+  "status": 1
+}
